@@ -1,0 +1,20 @@
+Cara install
+1 buat databse baru ( lalu upload db.sql ke database)
+2. buka file mainconfig.php ( masukan nama database dan pasword database yang sudah kamu buat tadi, kemudian masukan domain kamu )
+
+
+cara get service layanan anjelpedia.com
+
+1. daftar ke situs anjelpedia.com
+2.ambil api key kamu di menu pengaturan akun
+3.masuk ke menu admin webmu lalu pilih provider
+kemudian masukan api key mu di kolom yang sudah tersedia
+
+4.setting harga buka file cron/service.php lalu edit rate sesuai keinginanmu
+
+5. ambil semua layanan anjelpedia.com ( kunjungi domainkamu.com/cron/service.php
+
+selesai
+
+
+jika butuh bantuan wa: 0853-1338-8125

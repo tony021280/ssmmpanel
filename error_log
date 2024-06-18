@@ -1,0 +1,6 @@
+[29-May-2020 13:02:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anjelhos_cyb'@'localhost' (using password: YES) in /home/zlciferm/public_html/lib/db.php on line 9
+[29-May-2020 13:03:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anjelhos_cyb'@'localhost' (using password: YES) in /home/zlciferm/public_html/lib/db.php on line 9
+[29-May-2020 13:03:43 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anjelhos_cyb'@'localhost' (using password: YES) in /home/zlciferm/public_html/lib/db.php on line 9
+[09-Jun-2020 00:17:06 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/xhostnes/cybersmm.eu.org/lib/db.php on line 9
+[09-Jun-2020 00:17:11 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/xhostnes/cybersmm.eu.org/lib/db.php on line 9
+[09-Jun-2020 00:17:47 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/xhostnes/cybersmm.eu.org/lib/db.php on line 9
